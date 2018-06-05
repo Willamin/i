@@ -1,0 +1,6 @@
+version: 1.0
+shards:
+  microtest:
+    github: willamin/microtest
+    commit: 84aabbadaec0a14ba90090609b431f1e183daf02
+
